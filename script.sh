@@ -1,15 +1,14 @@
-# Jessica Marie Trawick
-# 2300326
-# trawick@chapman.edu
-# Phys 220-01
-# Classwork week 01
+#!/bin/bash
+
+# This is a comment
+
 echo "This is a line of code"
 
 if [ $# == 0 ]; then
-    echo "No command line arguments"
-    exit 1
+  echo "No command line arguments"
+  exit 1 # This exits as a failure
 fi
 
-echo $1
+echo $1  # prints first argument
 
-exit 0
+exit 0 # This exits as a success
