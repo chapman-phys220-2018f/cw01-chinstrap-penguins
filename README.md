@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 1
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jessica, Alley, **
 
 ## Specification
 
@@ -12,7 +12,16 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+What we found useful:
+- How to write basic code in terminal
+- How to write basic (bash) code in new file and run it in the terminal
+- Meaning/use of "echo"
+- When to use bash or shell
+
+Lingering comments:
+- Still confused about success code (unsure if "helloworld.sh" success code is written correctly)
+- How to make a new line (/n)?
+- How to make files 
 
 **CHANGEME**
 
@@ -25,4 +34,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-Jessica Trawick, Alley 
+Jessica Trawick, Alley Busick
