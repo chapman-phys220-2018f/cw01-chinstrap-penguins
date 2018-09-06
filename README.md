@@ -23,7 +23,7 @@ Lingering comments:
 - How to make a new line (/n)?
 - How to make files 
 
-**CHANGEME**
+**Jessica, Alley,**
 
 ## Honor Pledge
 
@@ -34,4 +34,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-Jessica Trawick, Alley Busick
+Jessica Trawick, Alley Busick,
