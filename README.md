@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 1
 
-**Author(s):** **Jessica, Alley, **
+**Author(s):** **Jessica, Alley,**
 
 ## Specification
 
