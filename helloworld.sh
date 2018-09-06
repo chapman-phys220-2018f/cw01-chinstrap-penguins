@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "Hello World \n"
+# success code and new line?
 
-exit 0
+echo 'Hello World!'
+echo $?
+0
